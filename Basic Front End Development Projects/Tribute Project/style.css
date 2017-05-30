@@ -1,0 +1,48 @@
+h1,h3,.links {
+	text-align: center;
+}
+
+p {
+	text-indent: 50px;
+}
+
+ul, li {
+	text-indent: 5px;
+	font-size: 15px;
+}
+
+ul {
+  text-align: center; 
+  list-style-position: inside;
+  list-style-type: none;
+} 
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/03/White-Background-Iphone-Pics-1.jpg");
+}
+
+.heading {
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 24px;
+  text-align: center;
+}
+
+.links {
+	font-size: 20px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	width: 500px;
+	margin: auto;
+}
+
+.hr-row {
+	color: #000;
+	background-color: #000;
+	height: 2px;
+}
